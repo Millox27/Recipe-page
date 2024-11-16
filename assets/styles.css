@@ -90,7 +90,7 @@ tr > td > span {
   color: hsl(14, 45%, 36%);
 }
 
-@media screen and (max-width: 375px) {
+@media screen and (max-width: 550px) {
   body {
     justify-content: center;
     background-color: hsl(0, 0%, 100%);
